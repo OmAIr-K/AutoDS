@@ -11,14 +11,6 @@ env.bak
 credentials/
 *.json
 
-# Poetry
-# poetry.lock
-
-# ADK Files
-instruction_prompt_root_v2.txt
-SCREEN_SHARE_README.md
-test_screen_share.py
-
 # Python
 *.pyc
 __pycache__/
