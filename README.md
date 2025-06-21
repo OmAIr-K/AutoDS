@@ -1,4 +1,4 @@
-# Data Science with Multiple Agents
+# ⚡AutoDS - Data Science with Multiple Agents 🧮🤖
 
 ## Overview
 
